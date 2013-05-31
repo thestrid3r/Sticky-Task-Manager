@@ -1,7 +1,7 @@
 Sticky-Task-Manager
 
-
-===================
+© Copyright 2013 .
+<b>Weapon-X</b>
 
 The aim of this project is to create a task scheduler program that'll run's on the top of <b>Gnome</b> desktop,<br>
 just like a standalone application,with highly custom option.Primary aim is to build it using Python that 'll implemented on any gnome based desktop.
