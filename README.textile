@@ -1,10 +1,9 @@
-Sticky-Task-Manager
+<h1>Sticky-Task-Manager</h1>
 
-© Copyright 2013 .
-<b>Weapon-X</b>
+© Copyright 2013 . <p><b>Weapon-X</b></p>
 
-The aim of this project is to create a task scheduler program that'll run's on the top of <b>Gnome</b> desktop,<br>
-just like a standalone application,with highly custom option.Primary aim is to build it using Python that 'll implemented on any gnome based desktop.
+<p>The aim of this project is to create a task scheduler program that'll run's on the top of <b>Gnome</b> desktop,<br>
+just like a standalone application,with highly custom option.Primary aim is to build it using Python that 'll implemented on any gnome based desktop.</p>
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">
