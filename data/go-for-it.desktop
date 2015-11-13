@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Go For It!
+GenericName=Go For It!
+Comment=A stylish to-do list with built-in productivity timer.
+Categories=GTK;Utility;
+Exec=go-for-it
+Icon=go-for-it
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=go-for-it
+Keywords=Productivity;Todo.txt;Todo;Timer;Task;PIM;Time Management;
+X-GNOME-Keywords=Productivity;Todo.txt;Todo;Timer;Task;PIM;Time Management;
+Actions=AboutDialog;
+
+[Desktop Action AboutDialog]
+Name=About Go For It!
+Exec=go-for-it --about
