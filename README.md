@@ -1,5 +1,7 @@
-Thid is a forked version of https://github.com/mank319/Go-For-It.
-Forked it in my repo for modified it to according to my need .
+
+This is a forked version of https://github.com/mank319/Go-For-It.
+
+Forked it to modify to according to my need .
 
 # Information for End Users
 
