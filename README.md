@@ -1,3 +1,6 @@
+Thid is a forked version of https://github.com/mank319/Go-For-It.
+Forked it in my repo for modified it to according to my need .
+
 # Information for End Users
 
 _Go For It!_ is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus on the current task. More information for end users can be found [here](http://manuel-kehl.de/projects/go-for-it).
